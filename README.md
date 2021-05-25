@@ -1,0 +1,2 @@
+# ocrepo
+Openshift training repository
